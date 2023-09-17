@@ -197,13 +197,15 @@ a{
     }
 }
 
-
+.img{
+  position:absolute;  
+}
 .advantages{
     background-color: var(--bone-color);
     border-bottom-left-radius: 100% 3%;
     border-bottom-right-radius: 100% 3%;
     padding-bottom: 7rem;
-    padding-top: 5rem;
+    padding-top: 27rem;
 
 }
 @media(min-width: 768px){
