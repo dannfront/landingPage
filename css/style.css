@@ -115,7 +115,7 @@ a{
         left: -10%;
         transform: translate(-50%, -50%);
         background-repeat: no-repeat;
-        background-image: url(/images/bg-pattern-1.svg);
+        background-image: url(images/bg-pattern-1.svg);
         content: '';
         display: block;
         background-size: cover;
@@ -124,7 +124,7 @@ a{
     }
     .spiral2::before{
         position: absolute;
-        background-image: url(/images/bg-pattern-2.svg);
+        background-image: url(images/bg-pattern-2.svg);
         content: '';
         display: block;
         background-size: cover;
